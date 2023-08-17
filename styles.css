@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 980px;
+    width: 100%;
+    font-size: 50px;
+    background-color: white;
+}
+#botao{
+    border-radius: 50px;
+    height: 50px;
+    width: 250px;
+    position: absolute;
+    margin-top: px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
+
+
